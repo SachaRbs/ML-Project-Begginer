@@ -1,5 +1,5 @@
 # ML-Project-Begginer
-## Small Machine Learning Project when I started learning Data Sciense, including:   
+## Begginer Machine Learning Project, including:   
 **Iris** : implementation of KNN  
 **Breast Cancer** : optimisation of Logistic, RandomForestClassifier, DecisionTreeClassifier, VotingClassifier  
 **Mnist** : CNN  
